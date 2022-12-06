@@ -7,6 +7,6 @@ Aquí encontrarás todos los scripts explicados en los vídeos comentados línea
 ¡Espero que te sea de ayuda!
 
 Sígueme en TikTok, Twitch, YouTube y Instagram como: 
-Melenitas Dev
+@Melenitas Dev
 
 ¡Muchas gracias!
