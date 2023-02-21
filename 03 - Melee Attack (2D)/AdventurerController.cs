@@ -108,6 +108,7 @@ namespace MelenitasDev
 			// Capturamos las teclas ("A" y "D") y ("←" y "→") para conocer la dirección.
 			xInput = Input.GetAxisRaw("Horizontal");
 
+			// Si estamos atacando, detenemos la función para que el personaje no se mueva.
 			if (currentState == AdventurerState.Attacking) return;
 			
 			// Creamos un vector para el movimiento horizontal multiplicando la dirección por la velocidad.
