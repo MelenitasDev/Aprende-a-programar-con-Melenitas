@@ -6,7 +6,7 @@ Aquí encontrarás todos los scripts explicados en los vídeos comentados línea
 
 ¡Espero que te sea de ayuda!
 
-Sígueme en TikTok, Twitch, YouTube e Instagram como: 
+Sígueme en [TikTok](https://www.tiktok.com/@melenitasdev), [Twitch](https://www.twitch.tv/melenitasdev), [YouTube](https://www.youtube.com/@MelenitasDev) e [Instagram](https://www.instagram.com/melenitasdev/) como: 
 @Melenitas Dev
 
 ¡Muchas gracias!
